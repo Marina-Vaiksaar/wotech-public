@@ -3,7 +3,6 @@ public class Main {
 
     double temp = -15.0;
 
-
      // kui temp on väiksem kui 5, siis ta vaatab järgmise tingimuse, sest see on False
     if (temp <= 5) {
       System.out.println("Wear super warm");
@@ -20,4 +19,3 @@ public class Main {
     else {
       System.out.println("You need cooling");
     }
-
